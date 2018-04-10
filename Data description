@@ -1,0 +1,31 @@
+
+2013, 2014, 2015 FILE DESCRIPTION
+================================================================================
+
+format:
+
+Reported::Date::Shooter::Dead::Injured::Location::Article::Article::Article::Article::Article::Article
+
+
+- Reported empty column 
+- Date date of shooting
+- Shooter name of shooter
+- Dead number of deaths
+- Injured number of injured
+- Location location of the incident
+- Articles different articles on the shooting
+
+sub-est2016_all__fixed for question DESCRIPTION
+================================================================================
+
+format:
+
+STATE::NAME::STNAM::POPESTIMATE2016
+
+
+- State the number of the state
+- Name the name of the city
+- Stnam the name of the state
+- Popestimate2016 2016 population estimate
+
+	
